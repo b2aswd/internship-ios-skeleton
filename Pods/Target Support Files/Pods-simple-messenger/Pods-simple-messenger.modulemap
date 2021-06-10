@@ -1,0 +1,6 @@
+framework module Pods_simple_messenger {
+  umbrella header "Pods-simple-messenger-umbrella.h"
+
+  export *
+  module * { export * }
+}
