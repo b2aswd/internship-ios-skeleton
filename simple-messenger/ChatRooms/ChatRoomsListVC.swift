@@ -15,16 +15,6 @@ public class ChatRoomsListVC: UIViewController {
         prepareView()
     }
 
-    public override func viewWillAppear(_ animated: Bool) {
-        super.viewWillAppear(animated)
-        navigationController?.setNavigationBarHidden(true, animated: animated)
-    }
-    
-    public override func viewWillDisappear(_ animated: Bool) {
-        super.viewWillDisappear(animated)
-        navigationController?.setNavigationBarHidden(false, animated: animated)
-    }
-
     open func prepareView() {
         self.view.backgroundColor = .white
         // MARK: - Its your turn
