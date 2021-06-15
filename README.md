@@ -18,8 +18,9 @@
 ## Zadání
 1. Vytvořte tabulku (UITableView), která bude obsahovat seznam místností. Pro tuto funkcionalitu využijte již existující třídu ChatRoomsListVC.
 2. Po kliknutí na buňku v tabulce se otevře detail konkrétní místnosti. V detailu místnosti lze vidět již napsané komentáře. 
-   V detailu místnosti lze také přidat nový komentář.
-3. Vytvoření nové místnosti
+3. Vytvoření nové místnosti.
+4. Úprava názvu a popisu místnosti.
+5. V detailu místnosti lze přidat nový komentář.
    
    
 ## Po dokončení předchozích úkolů
