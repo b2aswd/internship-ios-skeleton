@@ -20,7 +20,7 @@
 2. Po kliknutí na buňku v tabulce se otevře detail konkrétní místnosti. V detailu místnosti lze vidět již napsané komentáře. 
 3. Vytvoření nové místnosti.
 4. Úprava názvu a popisu místnosti.
-5. Editace emailu aktuálně přihlášeného uživatele
+5. Editace emailu aktuálně přihlášeného uživatele. POZOR!: Aktuálně nefunguje endpoint pro tuto změnu -> tento bod nelze splnit.
 6. V detailu místnosti lze přidat nový komentář.
    
    
