@@ -10,10 +10,11 @@
 
 ## Hints
 -   [Jazyk Swift](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html#//apple_ref/doc/uid/TP40014097-CH2-ID1)
--   [Knihovna pro pozicování prvků na obrazovce](http://snapkit.io/docs/)
+-   [Knihovna pro pozicování prvků na obrazovce](https://snapkit.github.io/SnapKit/docs/)
 -   [Knihovna UIKit](https://developer.apple.com/documentation/uikit)
 -   [Apple Dokumentace](https://developer.apple.com/documentation/technologies)
 -   [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+-   [Web Debugging Proxy](https://proxyman.io)
 
 ## Zadání
 1. Vytvořte tabulku (UITableView), která bude obsahovat seznam místností. Pro tuto funkcionalitu využijte již existující třídu ChatRoomsListVC.
